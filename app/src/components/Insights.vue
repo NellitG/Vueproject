@@ -1,8 +1,8 @@
 <template>
-    <section id="relume" class=" bg-green-50 overflow-hidden px-[5%] md:py-24">
+    <section id="relume" class=" bg-green-50 overflow-hidden px-[5%] md:py-24 lg:py-2">
     <div class="container">
       <div
-        class="rb-12 mb-12 grid grid-cols-1 items-start justify-start gap-y-8 md:mb-18 md:grid-cols-[1fr_max-content] md:items-end md:justify-between md:gap-x-12 md:gap-y-4 lg:mb-20 lg:gap-x-20"
+        class="rb-10 mb-4 grid grid-cols-1 items-start justify-start gap-y-8 md:mb-18 md:grid-cols-[1fr_max-content] md:items-end md:justify-between md:gap-x-12 md:gap-y-4 lg:mb-4 lg:gap-x-20"
       >
         <div class="md:mr-12 lg:mr-0">
           <div class="w-full max-w-lg">
@@ -37,7 +37,7 @@
                     <img
                       src="https://img.freepik.com/premium-photo/hamnoy-fishing-village-lofoten-islands-norway_163782-41.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&semt=ais_hybrid&w=740"
                       alt="Relume placeholder image"
-                      class="aspect-[3/2] size-full object-cover"
+                      class="aspect-3/2 size-full object-cover"
                     /></div
                 ></a>
                 <div class="px-5 py-6 sm:p-6">
@@ -73,7 +73,7 @@
                     <img
                       src="https://img.freepik.com/premium-photo/market-square-warsaw-poland-with-cloudy-blue-sky-travel-outdoor-european-background_548832-890.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&w=740"
                       alt="Relume placeholder image"
-                      class="aspect-[3/2] size-full object-cover"
+                      class="aspect-3/2 size-full object-cover"
                     /></div
                 ></a>
                 <div class="px-5 py-6 sm:p-6">
@@ -106,7 +106,7 @@
                     <img
                       src="https://img.freepik.com/premium-photo/flag-denmark-background-historic-old-town-copenhagen_627281-228.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&w=740"
                       alt="Relume placeholder image"
-                      class="aspect-[3/2] size-full object-cover"
+                      class="aspect-3/2 size-full object-cover"
                     /></div
                 ></a>
                 <div class="px-5 py-6 sm:p-6">
@@ -139,7 +139,7 @@
                     <img
                       src="https://img.freepik.com/premium-photo/zebra-group-with-amazing-sunset-african-savannah-serengeti-national-park-tanzania-wild-nature-african-landscape-safari-concept_136401-3335.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&semt=ais_hybrid&w=740"
                       alt="Relume placeholder image"
-                      class="aspect-[3/2] size-full object-cover"
+                      class="aspect-3/2 size-full object-cover"
                     /></div
                 ></a>
                 <div class="px-5 py-6 sm:p-6">
@@ -173,7 +173,7 @@
                     <img
                       src="https://img.freepik.com/free-photo/bird-s-eye-view-breathtaking-mountain-machu-picchu-peru_181624-10826.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&semt=ais_hybrid&w=740"
                       alt="Relume placeholder image"
-                      class="aspect-[3/2] size-full object-cover"
+                      class="aspect-3/2 size-full object-cover"
                     /></div
                 ></a>
                 <div class="px-5 py-6 sm:p-6">
@@ -208,7 +208,7 @@
                     <img
                       src="https://img.freepik.com/free-photo/beautiful-view-glacier-lake-surrounded-by-mountains-alaska_181624-32356.jpg?uid=R194069721&ga=GA1.1.1982752443.1733190947&semt=ais_hybrid&w=740"
                       alt="Relume placeholder image"
-                      class="aspect-[3/2] size-full object-cover"
+                      class="aspect-3/2 size-full object-cover"
                     /></div
                 ></a>
                 <div class="px-5 py-6 sm:p-6">
